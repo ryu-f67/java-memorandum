@@ -14,6 +14,7 @@ for (int i = 0; i < 3; i++){
   System.out.println("i=" + i);
 }
 ```
+出力
 ```java:出力
 i=0
 i=1
@@ -76,6 +77,7 @@ for (int num : numberList){
   }
 }
 ```
+出力
 ```java:出力
 94
 59
